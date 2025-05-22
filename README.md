@@ -88,4 +88,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For inquiries or feedback, please reach out to:
 
-Manreet: manreetk666@gmail.com
+Mugle Sruthi: sruthimugle19@gmail.com
