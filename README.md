@@ -1,5 +1,6 @@
 # SVM Breast Cancer Risk Assessment
-
+BREAST DETECT - X REFERS TO EXPLAINABILITY, TRANSPARENCY, AND COMPREHENSIVE MATRIX
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Overview
 
 The **SVM Breast Cancer Risk Assessment** application is an interactive web app built using R and Shiny, designed to predict the diagnosis of breast tumors based on key features from the Wisconsin Breast Cancer dataset. The application utilizes a Support Vector Machine (SVM) classification model to classify tumors as **Benign** or **Malignant**. Early detection is critical for effective treatment, and this app serves as a valuable tool for awareness and education.
